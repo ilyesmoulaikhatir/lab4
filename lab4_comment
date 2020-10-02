@@ -1,0 +1,37 @@
+3. Utilisation de la commande: history > history.txt
+
+4. Utilisation de la commande: cat sardar/* > sardar_power.txt
+
+5. Utilisation de la commande: wc -lw sardar_power.txt
+   resultat: 1980 lignes et 16783 mots
+
+6. Utilisation de la commande: grep -i singh sardar_power.txt
+
+7. Utilisation de la commande: rm sardar_power.txt
+
+8. Utilisation de la commande: grep -ri singh sardar
+
+9. Utilisation de la commande: grep -ri singh sardar | wc -l
+   resultat: 123 lignes
+
+10. Utilisation de la commande: grep -ri singh sardar | grep -i santa | wc -l
+    resultat: 42 lignes
+
+11. Utilisation de la commande: grep -ri singh sardar | grep -i santa | grep -vi banta | wc -l
+    resultat: 26 lignes
+
+12. Utilisation de la commande: find . -name "*.txt"
+
+13. Utilisation de la commande: cp answering-machine.txt test-commande-locate.txt
+    Lorsqu'on utilise la commande locate, on ne vois pas le fichier tes-commande-locate.txt affiché
+
+14. Las base de donne db n'est pas mise à jour. Il est nécessaire d'excuter la commande updatedb pour la mettre à jour et que 
+    les fichiers recemment copier s'ajoutent dans la base de donnée.
+
+15. Utilisation de la commande: diff noyau.v1 noyau.v2
+    Compare les deux doccuments, nous donne entre quel ligne se situe les différences et sont visibles grace au symbole > ou <
+    Les deux noyau on les variable SUBLEVEL, PATCHLEVEL et le export qui sont differents
+
+16. Utilisation de la commande: diff noyau.v1 noyau.v2 > update.patch, pour stocher la difference des deux fichiers.
+    Utilisation de la commande: patch noyau.v1 < update.patch, pour appliquer le patch sur le noyau.v1
+    Utilisation de la commande: diff noyau.v1 noyau.v2, pour verifier que le patch c'est bien appliqué

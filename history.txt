@@ -1,0 +1,360 @@
+    1  q
+    2  a
+    3  aa
+    4  a
+    5  aa
+    6  sudo apt-get install vim
+    7  sudo apt install libssl-dev bison flex
+    8  sudo apt install qt5-default pkg-config
+    9  ls
+   10  *
+   11  ls
+   12  time
+   13  ls
+   14  time
+   15  date
+   16  ls
+   17  date
+   18  ls
+   19  *
+   20  ls
+   21  cd Desktop/
+   22  ls
+   23  *
+   24  ls
+   25  sudo apt installl git gitk git-email
+   26  r
+   27  sudo apt installl git gitk git-email
+   28  sudo apt install git gitk git-email
+   29  clear
+   30  sudo apt install git gitk git-email
+   31  clear
+   32  sudo apt install git gitk git-email
+   33  sudo reboot
+   34  sudo apt install git gitk git-email
+   35  cd
+   36  c
+   37  sd
+   38  v
+   39  clear
+   40  sudo apt install git gitk git-email
+   41  git config --global user.name "Ilyes"
+   42  git config --global user.email ilyes_d59@hotmail.fr
+   43  git config --global user.email
+   44  git config --global user.name
+   45  ls
+   46  mkdir lab2
+   47  ls
+   48  cd lab2/
+   49  ls
+   50  vim Moulai_khatir
+   51  cqt Moulai_khatir 
+   52  cat Moulai_khatir 
+   53  cd..
+   54  cd ..
+   55  ls
+   56  cd Desktop/
+   57  ls
+   58  cd lab2/
+   59  ls
+   60  cat Moulai_khatir 
+   61* 
+   62  cd
+   63  ls
+   64  git status
+   65  cd Desktop/
+   66  ls
+   67  cd lq
+   68  cd lab2/
+   69  git status
+   70  rm .lab2_comment.swo
+   71  rm .lab2_comment.swp
+   72  git status
+   73* 
+   74  git status
+   75  rm .lab2_comment.swp
+   76  git status
+   77* 
+   78  git status
+   79  git rm .lab2_comment.swp
+   80  git status
+   81  git add .
+   82  git status
+   83  git commit -m "Essaye des fonctionalités github."
+   84  git remote add origin https://github.com/ilyesmoulaikhatir/lab2
+   85  git push -u origin master
+   86  git pull
+   87  ls
+   88  cd $HOME
+   89  ls
+   90  git clone https://github.com/ilyesmoulaikhatir/lab2
+   91  ls
+   92  cd lab2/
+   93  ls
+   94  cd ~
+   95  ls
+   96  cd Desktop/
+   97  cd lab2/
+   98  cd ~
+   99  ls
+  100  cd Desktop/
+  101  cd lab2
+  102  ls
+  103  git status
+  104  cd ..
+  105  ls
+  106  mv 5AS05-partie3 lab3
+  107  ls
+  108  cd lab3
+  109  ls
+  110  cd sardar
+  111  ls
+  112  cd ..
+  113  ls
+  114  du -hs sardar
+  115  ls lrt
+  116  ls -lrt
+  117  ls
+  118  du Microsoft 
+  119  du -hs Microsoft 
+  120  du -hs Microsoft
+  121  cat Microsoft 
+  122  ls
+  123  du -hs Microsoft
+  124  ls -lrt
+  125  stat Microsoft 
+  126  ls
+  127  stat Microsoft 
+  128  cat inode
+  129  cat Inode
+  130  stat Microsoft 
+  131  ls -a
+  132  ls
+  133  ls _a
+  134  ls -a
+  135  les -t -i
+  136  ls -t -i
+  137  ls _t
+  138  ls -t
+  139  ls -1
+  140  ls -lrt
+  141  ls -rt
+  142  ls -s
+  143  ls -rs
+  144  ls -shs
+  145  du
+  146  du -hs
+  147  ls
+  148  ls -s
+  149  ls -lrt
+  150  ls -shs
+  151  du -hs Microsoft 
+  152  ls _lrt
+  153  ls -lrt
+  154  ls -s
+  155  ls -shs
+  156  ls -rs
+  157  ls -rshs
+  158  ls -lrs
+  159  ls -rs
+  160  cat answering-machine.txt
+  161  more answering-machine.txt
+  162  vim answering-machine.txt 
+  163  cat answering-machine.txt 
+  164  ls
+  165  cd sardar
+  166  tail sardar3.txt -n 20
+  167  car sardar3.txt 
+  168  cat sardar3.txt 
+  169  tail sardar3.txt -n 20
+  170  cd ..
+  171  ls
+  172  grep trust Microsoft
+  173  grep "trust" Microsoft
+  174  grep -r "trust" Microsoft
+  175  grep -r trust Microsoft
+  176  grep trust Microsoft
+  177  grep -i trust Microsoft
+  178  grep trust Microsoft
+  179  grep -r money
+  180  _-
+  181  -i
+  182  grep -r money
+  183  -i
+  184  grep -r money
+  185  grep -ri money
+  186  ls
+  187  ls -a
+  188  mv .lightbulb lightbulb
+  189  l
+  190  ls
+  191  cd sardar
+  192  ls
+  193  mv sardar3.txt ..
+  194  ls
+  195  cd ..
+  196  ls
+  197  cd ..
+  198  ls
+  199  cd lab2
+  200  cd ..
+  201  ls
+  202  cd lab3
+  203  ls
+  204  rm Microsoft 
+  205  ls
+  206  mkdir archive
+  207  ls
+  208  ls -a
+  209  git init
+  210  git status
+  211  git add .
+  212  git status
+  213  git commit -m
+  214  git commit -m ""
+  215  git commit -m "Laboratoire 3"
+  216  git remote add origin https://github.com/ilyesmoulaikhatir/lab3
+  217  git remove origin
+  218  git remote remove origin
+  219  git remote add origin https://github.com/ilyesmoulaikhatir/lab3
+  220  git push _u origin master
+  221  git push -u origin master
+  222  ls
+  223  cd archive
+  224  ls
+  225  cd lab3
+  226  ls
+  227  cd ..
+  228  ls
+  229  rm lab3/
+  230  ls
+  231  cd ..
+  232  cp -a /lab3 archive
+  233  cp -a ../lab3 archive
+  234  ls
+  235  ls archive/
+  236  ls archive/lab3
+  237  ls archive/
+  238  cd..
+  239  ls
+  240  ls archive/
+  241  ls archive/lab3
+  242  cd archive
+  243  ls
+  244  cd ...
+  245  cd ..
+  246  ls
+  247  cp answering-machine.txt lab3_comment lightbulb README.md sardar3.txt ./archive/
+  248  cp -r sardar ./archive/
+  249  cd archive/
+  250  ls
+  251  rm lab3
+  252  ls
+  253  rm lab3
+  254  ls
+  255  cd ..
+  256  ls
+  257  cd archive
+  258  ls
+  259  cd sardar/
+  260  ls
+  261  cd ..
+  262  ls
+  263  rm archive/
+  264  remove archive/
+  265  rm _rf archive
+  266  rm -rf archive
+  267  ls
+  268  mkdir archive
+  269  ls
+  270  cp answering-machine.txt lab3_comment lightbulb README.md sardar3.txt archive
+  271  ls archive/
+  272  rm -rf archive
+  273  mkdir archive
+  274  cp answering-machine.txt lab3_comment lightbulb README.md sardar3.txt archive && cp -r sardar archive
+  275  ls
+  276  ls archive
+  277  cls
+  278  ls
+  279  ln -s sardar/*
+  280  ls
+  281  ln -s sardar/sardar2.txt ../lab3
+  282  ls
+  283  ln -s sardar/sardar3.txt
+  284  ln -s sardar/* ./
+  285  ls
+  286  rm sardar1.txt
+  287  rm sardar2.txt
+  288  ls
+  289  ln -s sardar/* ./
+  290  ls
+  291  rm sardar/sardar2.txt
+  292  ls
+  293  cat sardar2.txt 
+  294  vim sardar/sardar1.txt
+  295  ls
+  296  cat sardar1.txt 
+  297  ls
+  298  ls sardar
+  299  ls _l
+  300  ls -l
+  301  ls -l sardar
+  302  ls
+  303  chmod u-w sardar/sardar1.txt
+  304  ls -l sardar
+  305  ls -l
+  306  chmod u+w sardar/sardar1.txt
+  307  lss sardar
+  308  ls sardar
+  309  ls -l sardar
+  310  ls
+  311  tar jcvf lab3.tar.bz2
+  312  tar jcvf lab3.tar.bz2 ../lab3
+  313  ls
+  314  ls lab3.tar.bz2
+  315  tar -t lab3.tar.bz2
+  316  tar -t
+  317  tar -t lab3
+  318  tar -tf lab3
+  319  tar -tf lab3.tar.bz2
+  320  tar -t lab3.tar.bz2
+  321  tar -tf lab3.tar.bz2
+  322  ls
+  323  ls ..
+  324  tar -t lab3.tat.bz2
+  325  tar -tf lab3.tat.bz2
+  326  tar -tf lab3.tar.bz2
+  327  ls
+  328  rm lab3.tar.bz2
+  329  ls
+  330  tar jcvf lab3.tar.bz2 ../lab3
+  331  ls
+  332  tar -tf lab3.tar.bz2
+  333  git status
+  334  git add .
+  335  git status
+  336  git commit -m "Laboratoire 3"
+  337  git push -u origin master
+  338  cd ..
+  339  ls
+  340  mkdir lab3
+  341  mkdir lab4
+  342  ls
+  343  cd lab4
+  344  ls
+  345  ls ../lab3
+  346  cd ..
+  347  ls
+  348  rmdir llab4
+  349  rmdir lab4
+  350  ls
+  351  git clone https://github.com/khachicha/5AS05-parie4.git
+  352  ks
+  353  git clone https://github.com/khachicha/5AS05-partie4.git
+  354  ls
+  355  mv 5AS05-partie4 lab4
+  356  ls
+  357  cd lab4
+  358  ls
+  359  history
+  360  history > history.txt
